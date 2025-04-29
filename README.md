@@ -43,7 +43,22 @@ Spotify API (optional for future work)
 Spotify Data → AWS S3 → AWS Glue ETL → Snowflake Warehouse → Streamlit App & Power BI Dashboards
 
 📸 Screenshots
-(We will insert images after export)
+## 📸 Screenshots
+
+### 🎨 Full Power BI Dashboard
+![Power BI Full Dashboard](images/powerbi_full.png)
+
+### 🎶 Top 5 Albums Analysis
+![Top 5 Albums Chart](images/top5_albums.png)
+
+### 🌍 Listening By Country
+![Listening Country Map](images/country_map.png)
+
+### 📈 Streamlit Hero Page
+![Streamlit KPIs and Monthly Trends](images/streamlit_hero.png)
+
+### 🔮 Forecasted Listening Hours
+![Forecast Graph](images/forecast_graph.png)
 
 ⚙️ How to Run
 Clone this repo
