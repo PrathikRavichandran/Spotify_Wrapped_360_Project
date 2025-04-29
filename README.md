@@ -39,7 +39,7 @@ Built end-to-end from raw JSON exports to fully interactive cloud dashboards and
 ## 🛠 Project Architecture
 Spotify Data → AWS S3 → AWS Glue ETL → Snowflake Warehouse → Streamlit App & Power BI Dashboards
 ### 🎨 Workflow Architecture
-![Workflow Diagram](images/Project Architecture Workflow.png)
+![Workflow Diagram](images/Project_Architecture_Workflow.png)
 
 ---
 
