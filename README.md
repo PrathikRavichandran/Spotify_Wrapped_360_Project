@@ -66,8 +66,9 @@ Spotify Data → AWS S3 → AWS Glue ETL → Snowflake Warehouse → Streamlit A
 
 1. Clone this repo
 2. Open `app.py` → run with Streamlit
-3. Open `.pbix` file with Power BI Desktop
-4. Explore dashboards & forecasting!
+3. Run the app.py file manually or use Google Colab file ``to run it by uploading it.
+4. Open `.pbix` file with Power BI Desktop
+5. Explore dashboards & forecasting!
 
 ---
 
